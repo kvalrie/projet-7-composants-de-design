@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  align-content: center;
+  height: 100vh;
+  margin: 0; }
+
+.main {
+  display: flex;
+  width: 1000px;
+  margin: auto;
+  align-items: center;
+  font-family: arial,sans-serif; }
+
+.article {
+  display: flex;
+  flex-direction: column; }
+
+.content {
+  padding-right: 120px; }
+
+p {
+  color: #727272;
+  margin-top: 0; }
+
+.titre {
+  font-size: 12px; }
+
+button {
+  padding: 10px 20px 10px 20px;
+  border-radius: 4px;
+  color: white;
+  background-color: #388086;
+  border: 1px solid transparent;
+  font-size: 12px; }
+
+/*# sourceMappingURL=story.css.map */

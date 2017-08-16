@@ -1,0 +1,48 @@
+.master {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  margin: auto;
+  font-family: helvetica, sans-serif; }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  margin-bottom: 20px; }
+
+.header div:first-child {
+  border-bottom: 2px solid black; }
+
+.content {
+  display: flex; }
+
+.article {
+  display: flex;
+  flex-direction: column; }
+
+.politique {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px; }
+
+.politique p:first-child {
+  margin-bottom: 5px;
+  margin-top: 12px; }
+
+.politique p:nth-child(2) {
+  margin: 0; }
+
+.titre_pol {
+  width: 100%;
+  font-weight: bold;
+  margin-bottom: 10px; }
+
+.img_pol {
+  margin-right: 10px; }
+
+img {
+  border-radius: 30px; }
+
+/*# sourceMappingURL=related.css.map */

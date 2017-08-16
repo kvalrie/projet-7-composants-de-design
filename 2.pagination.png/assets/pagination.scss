@@ -1,0 +1,39 @@
+.pages {
+  display: flex;
+  align-items: center; 
+font-family: arial, sans-serif;
+font-weight:bold;
+}
+
+.container{
+	background-color: #E5E5E5;
+	width: 1000px;
+	margin: auto;
+	padding: 20px 20px 20px 20px;
+
+ }
+
+.cels {
+  padding: 10px 40px 10px 40px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  margin-right: 8px;
+  background-color: #3D454E;
+  color: white;
+
+   }
+
+.cels:first-child {
+  background-color: #E5E5E5; 
+  color: black;
+}
+
+
+.cels:nth-child(5) {
+  background-color: #E5E5E5; 
+  color: black;
+
+}
+
+.cels:nth-child(7) {
+  background-color: #41A2E4; }

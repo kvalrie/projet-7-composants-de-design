@@ -1,0 +1,36 @@
+html { 
+       background: url(/Users/MBP/Desktop/GITHUB/BECODE/projet-7-composants-de-design/6.zone-hero.png/hero-image.jpg) no-repeat top right fixed;
+    	background-size: 65%;
+  
+ 
+}
+
+body{
+	font-family: arial,sans-serif;	
+	margin: 0;
+	padding: 0;
+}
+.titre{
+	width: 300px;
+}
+.content{
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	margin: 100px 0 0 100px;
+
+}
+.texte{
+	font-size: 15px;
+	line-height: 1.4em;
+}
+button{
+	background-color: #E3B74C;
+	padding: 15px 30px 15px 30px;
+	color: black;
+	border: 1px solid transparent;	
+	border-radius: 3px;
+}
+h1{
+margin: 0;
+}

@@ -1,0 +1,31 @@
+
+footer{
+	width: 80%;
+	height: 57px;
+	margin: auto;
+	display:flex;
+	justify-content: space-between;
+	background-color: pink;
+	align-items: center;
+	font-size: 11px;
+	background-color: #F9F3E9;
+	color: #ADA9A3;
+	font-family: Arial, sans-serif;
+
+}
+a, .image{
+	flex-grow: 1;
+	margin: 0 10px 0 0px;
+	text-decoration: none;
+
+}
+a:link{
+	color: #ADA9A3;
+}
+a:visited{
+	color: #ADA9A3;
+}
+.play{
+	flex-grow: 70;
+	margin-left: 20px;
+}

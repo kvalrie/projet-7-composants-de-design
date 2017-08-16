@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  width: 1000px;
+  margin: auto; }
+
+.numero {
+  font-size: 60px; }
+
+.article h1 {
+  font-size: 20px;
+  margin-bottom: 0; }
+
+.article p {
+  font-size: 19px;
+  margin-top: 0; }
+
+.partie_2 {
+  display: flex;
+  width: 625px;
+  flex-direction: column;
+  align-items: center; }
+
+.partie_3 {
+  display: flex;
+  width: 100px; }
+
+.partie_1 {
+  display: flex;
+  width: 80px;
+  flex-direction: column;
+  justify-content: center; }
+
+.digs {
+  border: 1px solid yellow; }
+
+.digg_it {
+  border: 1px solid blue; }
+
+/*# sourceMappingURL=numeric.css.map */

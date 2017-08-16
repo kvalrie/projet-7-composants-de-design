@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: helvetica, sans-serif; }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1004px;
+  margin: auto; }
+
+.header a {
+  text-decoration: none;
+  color: #A0A0A0; }
+
+a:link {
+  color: #A0A0A0; }
+
+a:visited {
+  color: #A0A0A0; }
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  width: 1000px;
+  margin: auto; }
+
+.commentaire {
+  width: 193px;
+  font-size: 12px; }
+
+.commentaire span {
+  color: #49A096; }
+
+.logo {
+  margin-right: 6px;
+  margin-left: 6px; }
+
+.prix {
+  width: 193px;
+  font-size: 15px;
+  color: #939393; }
+
+.prix span {
+  font-weight: bold;
+  color: #525252; }
+
+#chiant {
+  margin-top: 16px; }
+
+/*# sourceMappingURL=zone_card.css.map */
